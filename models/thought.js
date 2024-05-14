@@ -1,4 +1,4 @@
-const { Schema, model, Types } = require('mongoose');
+const { Schema, model } = require('mongoose');
 const { formatDate } = require("../utils/dateFormat");
 const reactionSchema = require("./reaction");
 // Schema to create Student model

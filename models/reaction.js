@@ -1,4 +1,4 @@
-const { Schema, model, Types } = require('mongoose');
+const { Schema, Types } = require('mongoose');
 const { formatDate } = require("../utils/dateFormat");
 const reactionSchema = new Schema(
   {
@@ -28,7 +28,6 @@ const reactionSchema = new Schema(
       getters: true,
     },
     //THis is a case by case basis 
-    id: false,
     _id: false,
   }
 )
