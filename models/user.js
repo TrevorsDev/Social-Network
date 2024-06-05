@@ -22,7 +22,7 @@ const userSchema = new Schema(
     toJSON: {
       virtuals: true,
     },
-    //THis is a case by case basis 
+    //This is a case by case basis 
     id: false,
   }
 );
