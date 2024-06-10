@@ -18,10 +18,9 @@ There are no steps to install this project. Please refer to the section on how t
 ## App Usage
 First, with this project downloaded locally and running on your text editor of choice, open the terminal inside the root folder. Once open, type "npm run start" to establish a connection with the server. Inside the terminal you should see a message that says "API server running on port 3001!". This is confirmation that the connection is extablished. Next, open Insomnia and create three folders, one for User, Thoughts, and Reactions. Inside each folder, create files to perfom the CRUD medthod, allowing us to test our functionality. For example: "Create User", "Get all Users", "Get User by ID", "Update User", " and "Delete User". Watch the video below to see examples of folder/file structure, and how to perform route testing:
 
-  <!-- <video width="600" controls>
-        <source src="img-vid/Social-Media-App.mp4" type="video/mp4"> -->
+## Video Demo
         
-  [View here](img-vid/Social-Media-App.mp4) to watch a video demonstration of the working project.
+  [View this link ](img-vid/Social-Media-App.mp4) to watch a walk through demonstration of the working project.
 
 ## License
 this project is licensed under the MIT.
