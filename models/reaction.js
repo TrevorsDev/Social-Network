@@ -29,6 +29,7 @@ const reactionSchema = new Schema(
     },
     //THis is a case by case basis 
     _id: false,
+    id: false
   }
 )
 
