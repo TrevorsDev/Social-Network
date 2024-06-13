@@ -20,7 +20,7 @@ First, with this project downloaded locally and running on your text editor of c
 
 ## Video Demo
         
-  [View this link ](img-vid/Social-Media-App.mp4) to watch a walk through demonstration of the working project.
+  View this link to watch a walk through demonstration of the working project: https://www.youtube.com/watch?v=hTbO_XoDPsA
 
 ## License
 this project is licensed under the MIT.
